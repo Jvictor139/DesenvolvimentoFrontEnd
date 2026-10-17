@@ -1,2 +1,7 @@
-# Desenvolvimento Front-End
-Repositório de atividades desenvolvidos durante o processo de aprendizado na disciplina de Desenvolvimento Front-end, lecionado pelo professor Gabriel Rosa Paz. 
+# Projeto ConectaWeb
+Atividade prática da disciplina Desenvolvimento Front-End para Web.
+## Tecnologias
+- HTML5
+- CSS3
+## Objetivo
+Praticar organização de projeto, versionamento e colaboração com GitHub.
